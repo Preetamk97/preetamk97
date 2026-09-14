@@ -1,22 +1,48 @@
-# 💫 About Me:
-🔭 I’m currently working on **creating Robotics Simulations with the helps of ROS2, Gazebo and Navigation2 Stack**
-<br><br>
-👯 I’m looking to collaborate on **all kinds of Robotics Projects**
-<br><br>
-🌱 I’m currently learning **anything and everything that is required to become a great Roboticist (specifically focusing on ROS2 and creating Gazebo Simulations)**
-<br><br>
-💬 Ask me about **ROS2 and creating Gazebo and Ignition Gazebo Simulations**
-<br><br>
-⚡ Fun fact : **I am fairly good with Programming and Mathematics and but suck at Physics!**
+# 💫 About Me
 
+🤖 I'm **Pritam Ranjan Kalita**, a Robotics Engineer focused on **control theory and learning-based methods for safe, autonomous robotic systems**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
+🔭 I'm currently working as a **Project Assistant at the Wearable Robotics & Control Laboratory, IIT Jodhpur**, where I design controllers for **powered prosthetic legs and lower-limb exoskeletons**.
+
+🎓 I hold an **M.Tech in Robotics Engineering (UPES, Dehradun)**, where my thesis built a **Stochastic Nonlinear Model Predictive Control (SNMPC)** framework on top of ROS 2 Nav2's Regulated Pure Pursuit controller — cutting cross-track tracking error by 40–50%+ under localization uncertainty.
+
+👯 I'm looking to collaborate on projects involving **control theory, trajectory optimization, ROS 2/Nav2, exoskeletons & prosthetics, and UAVs**.
+
+🌱 I'm currently deepening my knowledge of **model predictive control, sensor fusion, and embedded actuator control (CAN bus, CubeMars actuators)**.
+
+💬 Ask me about **ROS 2 & Nav2, Gazebo simulation, MPC/LQR control, and building custom planner/controller plugins**.
+
+📝 I write technical tutorials on robotics hardware & tooling — check out the **[Tutorials](https://preetamk97.github.io/tutorials.html)** section of my portfolio.
+
+⚡ Fun fact: **I'm strong with programming & math, decent with control theory, and still recovering from undergrad Physics.**
+
+🌐 Portfolio: **[preetamk97.github.io](https://preetamk97.github.io)**
+
+---
+
+# 🚀 Featured Projects
+
+- **[Uncertainty-Aware Trajectory Optimization (M.Tech Thesis)](https://preetamk97.github.io/index.html#project-snmpc)** — SNMPC framework for ROS 2/Nav2's Regulated Pure Pursuit controller, validated in Gazebo across multiple speeds.
+- **[Self-Balancing Segway Robot](https://github.com/Preetamk97/Balance-Control-of-Segway-Robot-Using-Classical-And-Mordern-Control-Techniques)** — PID vs. LQR vs. Genetic-Algorithm-optimized LQR for a two-wheeled inverted-pendulum robot, modeled in MATLAB/Simulink + Simscape Multibody.
+
+# 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-grey?style=for-the-badge&logo=gazebo&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge) ![SolidWorks](https://img.shields.io/badge/SolidWorks-D3D3D3?style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+# 📊 GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preetamk97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preetamk97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+### 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamrk/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetamk97@gmail.com)
+
 [![](https://visitcount.itsvg.in/api?id=preetamk97&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
