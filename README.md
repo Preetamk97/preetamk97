@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamrk/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetamk97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamrk/) 
 
 [![](https://visitcount.itsvg.in/api?id=preetamk97&icon=0&color=0)](https://visitcount.itsvg.in)
 
