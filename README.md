@@ -1,18 +1,14 @@
 # 💫 About Me
 
-🤖 I'm **Pritam Ranjan Kalita**, a Robotics Engineer focused on **control theory and learning-based methods for safe, autonomous robotic systems**.
+🤖 I'm **Pritam Ranjan Kalita**, a Robotics Engineer focused on **control theory and learning-based methods for building safe, autonomous robotic systems**.
 
 🔭 I'm currently working as a **Project Assistant at the Wearable Robotics & Control Laboratory, IIT Jodhpur**, where I design controllers for **powered prosthetic legs and lower-limb exoskeletons**.
 
-🎓 I hold an **M.Tech in Robotics Engineering (UPES, Dehradun)**, where my thesis built a **Stochastic Nonlinear Model Predictive Control (SNMPC)** framework on top of ROS 2 Nav2's Regulated Pure Pursuit controller — cutting cross-track tracking error by 40–50%+ under localization uncertainty.
+🎓 I hold a **Master of Technology degree in Robotics Engineering from UPES Univerity, Dehradun**, where my thesis built a **Stochastic Nonlinear Model Predictive Control (SNMPC)** framework which optimizes the lookahead distance parameter of the ROS 2 Nav2's Regulated Pure Pursuit controller by jointly considering the robot's localization uncertainity and lateral and heading cross-track error.
 
-👯 I'm looking to collaborate on projects involving **control theory, trajectory optimization, ROS 2/Nav2, exoskeletons & prosthetics, and UAVs**.
+💬 Ask me about **ROS 2 & Nav2, Gazebo Simulation, Matlab, Solidworks, MPC/LQR/PID/Impedance Control, Non-Linear Control, Optimal Control & Optimization Techniques.**.
 
-🌱 I'm currently deepening my knowledge of **model predictive control, sensor fusion, and embedded actuator control (CAN bus, CubeMars actuators)**.
-
-💬 Ask me about **ROS 2 & Nav2, Gazebo simulation, MPC/LQR control, and building custom planner/controller plugins**.
-
-📝 I write technical tutorials on robotics hardware & tooling — check out the **[Tutorials](https://preetamk97.github.io/tutorials.html)** section of my portfolio.
+📝 I write technical tutorials related to robotics — check out the **[Tutorials](https://preetamk97.github.io/tutorials.html)** section of my portfolio.
 
 ⚡ Fun fact: **I'm strong with programming & math, decent with control theory, and still recovering from undergrad Physics.**
 
